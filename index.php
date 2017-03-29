@@ -9,7 +9,6 @@
   <script src="public/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 	<div class="container">
 		<h1>PHP Training</h1>
 			<div class="clearfix">
