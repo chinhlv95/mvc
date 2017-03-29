@@ -21,3 +21,7 @@ else {
 	$control = new \MVC\Controller\ControllerGetData();
 	$control->response_get_data();
 }
+else {
+	$control = new \MVC\Controller\ControllerGetData();
+	$control->response_get_data();
+}
