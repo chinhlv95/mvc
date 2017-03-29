@@ -25,6 +25,7 @@ else {
 
 	echo "aaaa";
 
+
 }
 else {
 	$control = new \MVC\Controller\ControllerGetData();
@@ -33,5 +34,7 @@ else {
     echo "chó chinh";
 
 	echo "aaaa";
+
+
 
 }
