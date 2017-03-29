@@ -27,14 +27,3 @@ else {
 
 
 }
-else {
-	$control = new \MVC\Controller\ControllerGetData();
-	$control->response_get_data();
-
-    echo "chó chinh";
-
-	echo "aaaa";
-
-
-
-}
