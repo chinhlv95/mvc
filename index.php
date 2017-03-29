@@ -9,7 +9,7 @@
   <script src="public/js/bootstrap.min.js"></script>
 </head>
 <body>
- cuối
+ cuối cuối
 	<div class="container">
 		<h1>PHP Training</h1>
 			<div class="clearfix">
