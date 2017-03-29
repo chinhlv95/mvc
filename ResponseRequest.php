@@ -23,7 +23,7 @@ else {
 
     echo "chó chinh";
 
-	echo "aaaa";
+	echo "cuôi";
 
 
 }
